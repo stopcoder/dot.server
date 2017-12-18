@@ -1,1 +1,2 @@
 sudo apt-get install transmission-cli transmission-common transmission-daemon
+sudo apt install nfs-kernel-server
